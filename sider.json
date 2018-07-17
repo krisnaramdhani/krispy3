@@ -1,0 +1,52 @@
+{
+    "Admin": {
+        "u35459f1e84ad208cc56025c259cb1628": true,
+        "u9cc2323f5b84f9df880c33aa9f9e3ae1": true
+    },
+    "AdminDel": false,
+    "Adminadd": false,
+    "AutoReject": false,
+    "AutojoinTicket": false,
+    "BackupBot": true,
+    "Ban": false,
+    "Blacklist": {},
+    "Contact": false,
+    "ContactAdd": {},
+    "Copy": false,
+    "GName": "Kris",
+    "Gift": false,
+    "IDSticker": false,
+    "Invite": false,
+    "KillOn": false,
+    "Leave": false,
+    "Mic": false,
+    "MicDel": false,
+    "PesanAdd": "Terima Kasih Sudah Add Saya",
+    "ROM": {
+        "": {}
+    },
+    "Steal": false,
+    "Timeline": false,
+    "Unban": false,
+    "UnsendPesan": false,
+    "Upfoto": false,
+    "UpfotoGroup": false,
+    "WcText": "Welcome",
+    "Welcome": false,
+    "WvText": "See You Next Time (-_-)",
+    "autoAdd": true,
+    "autoBlock": false,
+    "autoJoin": false,
+    "autoRead": false,
+    "detectMention": false,
+    "kickMention": false,
+    "readMember": {
+        "": ""
+    },
+    "readPoint": {
+        "": ""
+    },
+    "readTime": {
+        "": ""
+    }
+}
