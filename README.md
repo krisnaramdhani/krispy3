@@ -1,3 +1,4 @@
 # KRIS-CAB
 
-Cyber Army Bot
+✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
+line://ti/p/~krissthea
