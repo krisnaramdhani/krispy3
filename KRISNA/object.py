@@ -210,9 +210,9 @@ class Object(object):
             xmod = self.getContact(KRISx).displayName
             self.sendText("u35459f1e84ad208cc56025c259cb1628", 'nah %s , ' % xmod)
             profile = self.getProfile()
-            profile.displayName = "SAYA MEMAKAI SC CAB"
+            profile.displayName = "✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰"
             self.updateProfile(profile)
-            profile.statusMessage = "OWNER (KRIS)"
+            profile.statusMessage = "OWNER (KRIS) => line://ti/p/~krissthea"
             self.updateProfile(profile)
             DOMAIN_ = "https://2.bp.blogspot.com/-teON0jq8_P0/Wkei_oGyqSI/AAAAAAAAAI0/lMfY0ScHNlQcogpQxnekr56DqDeuTna8gCLcBGAs/s320/cab%2Blogo%2Bcopy.jpg"
             LINE = self.downloadFileURL(DOMAIN_)
